@@ -1,4 +1,5 @@
 # Problem: https://www.hackerrank.com/challenges/py-if-else/problem
+#!/bin/python3
 
 
 def wierd(n):
